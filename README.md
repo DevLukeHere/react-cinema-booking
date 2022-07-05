@@ -5,6 +5,8 @@
 1. run "npm install"
 2. run "npm start"
 
+Application is run on localhost:3000
+
 ## Some of the assumptions and design considerations that I have made include:
 
 * Design principals and components was based upon Material UI (MUI) philosophies. The reason this library was chosen is because I am most familiar with it and it is relatively easy and fast to implement to a project.
